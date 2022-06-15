@@ -1,3 +1,3 @@
 # eyeMovement
 ## Eye Movement Exercise
-<img src="oneeye.png" width='300'/>
+<img src="eyes.png" width='300'/>
